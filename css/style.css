@@ -1,0 +1,89 @@
+/* CUSTOMIZE CSS */
+
+.pad-twefive {
+	padding: 40px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+/*NAV BAR CENTER*/
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+/*END OF NAV BAR CENTER*/
+
+.no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.no-padding-bottom {
+	padding-bottom: 0px;
+}
+
+.weightninehund{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.font-fiften{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+a:hover {
+	color: #ed702b;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.full-width {
+	width: 100%;
+}
+
+a {
+	color: black;
+}
+
+.pad-top-bot-twefive{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.border-bottom {
+	border: 3px solid #eeeeee;
+	border-right: 0px;
+	border-top: 0px;
+	border-left: 0px;
+}
+
+.no-border {
+	border-radius: 0px;
+	border: 0px;
+}
+
+.seven-pad {
+	padding: 7px;
+}
+
+.bullet-bot-border{
+	border: 1px dashed;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.no-margin-bottom {
+	margin-bottom : 0px;
+}
